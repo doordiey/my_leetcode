@@ -2,6 +2,9 @@
 
 - Day Day UP
 
+- 一个困难=2个中等=10个简单
+- 每天基础：10个简单
+
 ## emoji
 
 | emoji   | emoji代码 | commit说明                              |
